@@ -1,0 +1,11 @@
+{
+  "defaultSeverity": "error",
+  "extends": "tslint-config-airbnb",
+  "jsRules": {},
+  "rules": {
+    "import-name": [true, { "react": "React", "reactDom": "ReactDOM" }],
+    "variable-name": [true, "ban-keywords", "check-format", "allow-pascal-case"],
+    "max-line-length": [true, 125]
+  },
+  "rulesDirectory": []
+}
