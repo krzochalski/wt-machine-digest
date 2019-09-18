@@ -1,31 +1,36 @@
 export enum Country {
-  usa = 'usa',
-  france = 'france',
-  uk = 'uk',
-  germany = 'germany',
-  japan = 'japan',
-  italy = 'italy',
-  ussr = 'ussr',
-  china = 'china',
+  USA = 'USA',
+  FRANCE = 'France',
+  UK = 'UK',
+  GERMANY = 'Germany',
+  JAPAN = 'Japan',
+  ITALY = 'Italy',
+  USSR = 'USSR',
+  CHINA = 'China',
 }
 
 export enum Driver {
-  nightVision = 'Night Vision',
-  hiResNV = 'Hi Res NV',
+  NIGHT_VISION = 'Night Vision',
+  HI_RES_NV = 'Hi Res NV',
 }
 
 export enum Gunner {
-  nightVision = 'Night Vision',
-  thermal = 'Thermal',
-  hiResThermal = 'Thermal Tier 4 (Hi Res NV stock)',
+  NIGHT_VISION = 'Night Vision',
+  THERMAL = 'Thermal',
+  HI_RES_THERMAL = 'Thermal Tier 4 (Hi Res NV stock)',
 }
 
 export enum GunnerThermalRes {
-  //  @todo: add options
+  FIVE_BY_THREE = '500x300',
+  EIGHT_BY_SIX = '800x600',
+  TWELVE_BY_EIGHT = '1200x800',
 }
 
 export enum Commander {
-  //  @todo: add options
+  NIGHT_VISION = 'Night Vision',
+  HI_RES_NV = 'Hi Res NV',
+  MID_RES_THERMAL = 'Mid Res Thermal',
+  HI_RES_THERMAL = 'Hi Res Thermal',
 }
 
 export type Tier = 1 | 2 | 3 | 4;

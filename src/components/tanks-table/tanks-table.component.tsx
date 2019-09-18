@@ -1,8 +1,17 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import { TankType } from 'types/tank.type';
+import { Commander, Country, Driver, Gunner, GunnerThermalRes, TankType } from 'types/tank.type';
+import { EnumsService } from 'services/enums.service';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faTimes } from '@fortawesome/free-solid-svg-icons';
 
 export class TanksTable extends Component {
+  static displayEnumData(key: any, enumToIterate: object) {
+    return key !== null
+      ? EnumsService.getEnumValue(key, enumToIterate)
+      : <FontAwesomeIcon className="text-danger" icon={faTimes}/>;
+  }
+
   componentDidMount(): void {
     axios.get('/data.json').then((response: any) => {
       this.setState({ tanks: response.data.data });
@@ -30,11 +39,11 @@ export class TanksTable extends Component {
             return (
               <tr key={index}>
                 <td>{tank.name}</td>
-                <td>{tank.country}</td>
-                <td>{tank.driver ? tank.driver : 'No'}</td>
-                <td>{tank.gunner ? tank.gunner : 'No'}</td>
-                <td>{tank.gunnerThermalRes ? tank.gunnerThermalRes : 'No'}</td>
-                <td>{tank.commander ? tank.commander : 'No'}</td>
+                <td>{TanksTable.displayEnumData(tank.country, Country)}</td>
+                <td>{TanksTable.displayEnumData(tank.driver, Driver)}</td>
+                <td>{TanksTable.displayEnumData(tank.gunner, Gunner)}</td>
+                <td>{TanksTable.displayEnumData(tank.gunnerThermalRes, GunnerThermalRes)}</td>
+                <td>{TanksTable.displayEnumData(tank.commander, Commander)}</td>
                 <td>{tank.tier}</td>
               </tr>
             );
