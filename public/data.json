@@ -17,6 +17,24 @@
       "gunnerThermalRes": null,
       "commander": null,
       "tier": 3
+    },
+    {
+      "name": "M48a1",
+      "country": "usa",
+      "driver": "nightVision",
+      "gunner": null,
+      "gunnerThermalRes": null,
+      "commander": null,
+      "tier": 3
+    },
+    {
+      "name": "M60",
+      "country": "usa",
+      "driver": "nightVision",
+      "gunner": "nightVision",
+      "gunnerThermalRes": null,
+      "commander": "nightVision",
+      "tier": 3
     }
   ]
 }

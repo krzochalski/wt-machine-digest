@@ -1,4 +1,4 @@
-enum Country {
+export enum Country {
   usa = 'usa',
   france = 'france',
   uk = 'uk',
@@ -9,26 +9,26 @@ enum Country {
   china = 'china',
 }
 
-enum Driver {
+export enum Driver {
   nightVision = 'Night Vision',
   hiResNV = 'Hi Res NV',
 }
 
-enum Gunner {
+export enum Gunner {
   nightVision = 'Night Vision',
   thermal = 'Thermal',
   hiResThermal = 'Thermal Tier 4 (Hi Res NV stock)',
 }
 
-enum GunnerThermalRes {
+export enum GunnerThermalRes {
   //  @todo: add options
 }
 
-enum Commander {
+export enum Commander {
   //  @todo: add options
 }
 
-type Tier = 1 | 2 | 3 | 4;
+export type Tier = 1 | 2 | 3 | 4;
 
 export type TankType = {
   name: string;
