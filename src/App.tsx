@@ -1,5 +1,6 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import 'bootswatch/dist/superhero/bootstrap.min.css';
+import { TanksTable } from 'components/tanks-table/tanks-table.component';
 
 export default class App extends Component {
   render() {
@@ -13,6 +14,7 @@ export default class App extends Component {
               <hr className="my-4"/>
               <p>Good fight, good night!</p>
             </div>
+            <TanksTable/>
           </div>
         </div>
       </main>

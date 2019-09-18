@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "name": "M47",
+      "country": "usa",
+      "driver": "nightVision",
+      "gunner": null,
+      "gunnerThermalRes": null,
+      "commander": null,
+      "tier": 2
+    },
+    {
+      "name": "M103",
+      "country": "usa",
+      "driver": "nightVision",
+      "gunner": null,
+      "gunnerThermalRes": null,
+      "commander": null,
+      "tier": 3
+    }
+  ]
+}

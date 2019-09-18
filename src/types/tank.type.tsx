@@ -11,7 +11,7 @@ enum Country {
 
 enum Driver {
   nightVision = 'Night Vision',
-  hiResNV = 'Hi Res NV'
+  hiResNV = 'Hi Res NV',
 }
 
 enum Gunner {
@@ -33,9 +33,9 @@ type Tier = 1 | 2 | 3 | 4;
 export type TankType = {
   name: string;
   country: Country;
-  driver: Driver;
-  gunner: Gunner;
-  gunnerThermalRes: GunnerThermalRes;
+  driver: Driver | null;
+  gunner: Gunner | null;
+  gunnerThermalRes: GunnerThermalRes | null;
   commander: Commander;
   tier: Tier;
-}
+};
