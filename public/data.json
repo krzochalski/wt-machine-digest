@@ -103,7 +103,7 @@
       "name": "M901 ITV",
       "country": "USA",
       "driver": "NIGHT_VISION",
-      "gunner": "NIGHT_VISION",
+      "gunner": "THERMAL",
       "gunnerThermalRes": "FIVE_BY_THREE",
       "commander": "HI_RES_NV",
       "tier": 3
