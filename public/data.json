@@ -103,10 +103,19 @@
       "name": "M901 ITV",
       "country": "USA",
       "driver": "NIGHT_VISION",
-      "gunner": "THERMAL",
+      "gunner": "NIGHT_VISION",
       "gunnerThermalRes": "FIVE_BY_THREE",
       "commander": "HI_RES_NV",
       "tier": 3
+    },
+    {
+      "name": "Merkava Mk1",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 2
     }
   ]
 }
