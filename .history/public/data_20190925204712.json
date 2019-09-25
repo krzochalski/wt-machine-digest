@@ -1,0 +1,311 @@
+{
+  "data": [
+    {
+      "name": "M47",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": null,
+      "gunnerThermalRes": null,
+      "commander": null,
+      "tier": 2
+    },
+    {
+      "name": "M103",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": null,
+      "gunnerThermalRes": null,
+      "commander": null,
+      "tier": 3
+    },
+    {
+      "name": "M48a1",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": null,
+      "gunnerThermalRes": null,
+      "commander": null,
+      "tier": 3
+    },
+    {
+      "name": "M60",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 3
+    },
+    {
+      "name": "Magach 3",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": null,
+      "gunnerThermalRes": null,
+      "commander": null,
+      "tier": 3
+    },
+    {
+      "name": "T95E1",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": null,
+      "gunnerThermalRes": null,
+      "commander": null,
+      "tier": 3
+    },
+    {
+      "name": "M551",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": "THERMAL",
+      "gunnerThermalRes": "FIVE_BY_THREE",
+      "commander": "HI_RES_NV",
+      "tier": 4
+    },
+    {
+      "name": "M247",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 3
+    },
+    {
+      "name": "M3 Bradley",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": "THERMAL",
+      "gunnerThermalRes": "FIVE_BY_THREE",
+      "commander": "HI_RES_NV",
+      "tier": 4
+    },
+    {
+      "name": "M60A1(AOS)",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 3
+    },
+    {
+      "name": "M60A2",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 4
+    },
+    {
+      "name": "M901 ITV",
+      "country": "USA",
+      "driver": "NIGHT_VISION",
+      "gunner": "THERMAL",
+      "gunnerThermalRes": "FIVE_BY_THREE",
+      "commander": "HI_RES_NV",
+      "tier": 3
+    },
+    { 
+      "name": "Centurion Mk 10",
+      "country": "UK",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 4
+    },
+    { 
+      "name": "Chieftan Mk3",
+      "country": "UK",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 3
+    },
+    { 
+      "name": "Chieftan Mk5",
+      "country": "UK",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 3
+    },
+    { 
+      "name": "Chieftan Mk10",
+      "country": "UK",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 2
+    },
+    { 
+      "name": "Challenger Mk 3",
+      "country": "UK",
+      "driver": "NIGHT_VISION",
+      "gunner": "THERMAL",
+      "gunnerThermalRes": "FIVE_BY_THREE",
+      "commander": "HI_RES_NV",
+      "tier": 2
+    },
+    { 
+      "name": "Challenger Mk 1",
+      "country": "UK",
+      "driver": "NIGHT_VISION",
+      "gunner": "THERMAL",
+      "gunnerThermalRes": "FIVE_BY_THREE",
+      "commander": "HI_RES_NV",
+      "tier": 2
+    },
+    { 
+      "name": "Challenger 2",
+      "country": "UK",
+      "driver": "NIGHT_VISION",
+      "gunner": "THERMAL",
+      "gunnerThermalRes": "FIVE_BY_THREE",
+      "commander": "HI_RES_NV",
+      "tier": 2
+    },
+    { 
+      "name": "Stormer HMV",
+      "country": "UK",
+      "driver": "NIGHT_VISION",
+      "gunner": "THERMAL",
+      "gunnerThermalRes": "FIVE_BY_THREE",
+      "commander": "HI_RES_NV",
+      "tier": 3
+    },
+    { 
+      "name": "Jp z 4-5",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 4
+    },
+    { 
+      "name": "Panther II",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": null,
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 3
+    },
+    { 
+      "name": "M48a2ga2",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 3
+    },
+    { 
+      "name": "Leopard 1",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 3
+    },
+    { 
+      "name": "M47a2c",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 3
+    },
+    { 
+      "name": "Leopard 1a1",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 4
+    },
+    { 
+      "name": "Begelpanzer 57",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 3
+    },
+    { 
+      "name": "TAM",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": null,
+      "gunnerThermalRes": null,
+      "commander": null,
+      "tier": 3
+    },
+    { 
+      "name": "Leopard a1a1 120",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 4
+    },
+    { 
+      "name": "KPZ-70",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 4
+    },
+    { 
+      "name": "RKJPZ 2 HOT",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "NIGHT_VISION",
+      "gunnerThermalRes": null,
+      "commander": "NIGHT_VISION",
+      "tier": 4
+    },
+    { 
+      "name": "Leopard 2k",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "THERMAL",
+      "gunnerThermalRes": "FIVE_BY_THREE",
+      "commander": "NIGHT_VISION",
+      "tier": 4
+    },
+    { 
+      "name": "Leopard 2a5",
+      "country": "GERMANY",
+      "driver": "HI_RES_N",
+      "gunner": "THERMAL",
+      "gunnerThermalRes": "EIGHT_BY_SIX",
+      "commander": "MID_RES_THERMAL",
+      "tier": 3
+    },
+    { 
+      "name": "Leopard 2a4",
+      "country": "GERMANY",
+      "driver": "NIGHT_VISION",
+      "gunner": "THERMAL",
+      "gunnerThermalRes": "FIVE_BY_THREE",
+      "commander": "HI_RES_THERMAL",
+      "tier": 3
+    }
+    
+  ]
+}

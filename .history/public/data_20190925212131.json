@@ -487,7 +487,7 @@
       "tier": 4
     },
     { 
-      "name": "Object 120",
+      "name": "Objec 120",
       "country": "USSR",
       "driver": "NIGHT_VISION",
       "gunner": "NIGHT_VISION",
@@ -658,7 +658,7 @@
       "tier": 4
     },
     { 
-      "name": "M113A1",
+      "name": "",
       "country": "CHINA",
       "driver": "NIGHT_VISION",
       "gunner": "NIGHT_VISION",
@@ -667,7 +667,7 @@
       "tier": 4
     },
     { 
-      "name": "T-62",
+      "name": "",
       "country": "CHINA",
       "driver": "NIGHT_VISION",
       "gunner": "NIGHT_VISION",
@@ -676,7 +676,7 @@
       "tier": 4
     },
     { 
-      "name": "Type 69 2A",
+      "name": "",
       "country": "CHINA",
       "driver": "NIGHT_VISION",
       "gunner": "NIGHT_VISION",
@@ -685,7 +685,7 @@
       "tier": 4
     },
     { 
-      "name": "M60A3 TTS",
+      "name": "",
       "country": "CHINA",
       "driver": "NIGHT_VISION",
       "gunner": "THERMAL",
@@ -694,7 +694,7 @@
       "tier": 3
     },
     { 
-      "name": "CM 11",
+      "name": "",
       "country": "CHINA",
       "driver": "NIGHT_VISION",
       "gunner": "THERMAL",
@@ -703,7 +703,7 @@
       "tier": 3
     },
     { 
-      "name": "Type 86",
+      "name": "",
       "country": "CHINA",
       "driver": "NIGHT_VISION",
       "gunner": "NIGHT_VISION",
